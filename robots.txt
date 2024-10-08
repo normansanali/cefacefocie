@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://cefacefocie.pages.dev/sitemap.xml
